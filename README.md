@@ -11,5 +11,5 @@ hand glove(optional)
 ## Robotic Arm Setup
 
 <p align="left">
-  <img src="https://github.com/manoharbhat/Real-Time-Robotic-Arm-Manipulation/blob/master/Setup.jpg" width=50% height=50%>
+  <img src="https://github.com/robbiebbaker/GestureControlledArm/blob/main/Hand%20Gesture.png" width=50% height=50%>
 </p> 
