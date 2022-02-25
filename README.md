@@ -28,11 +28,11 @@ The arm is split into 4 printable pieces and the fingers are each split into 3 j
   <img src="https://github.com/robbiebbaker/GestureControlledArm/blob/main/CAD/Robotic%20Arm%20Design%20View%20%231.png" width=50% height=50%>
 </p> 
 
-<p align="middle">
+<p align="left">
   <img src="https://github.com/robbiebbaker/GestureControlledArm/blob/main/CAD/Robotic%20Arm%20Design%20View%20%232.png" width=50% height=50%>
 </p> 
 
-<p align="right">
+<p align="left">
   <img src="https://github.com/robbiebbaker/GestureControlledArm/blob/main/CAD/Thumb%20Design.png" width=50% height=50%>
 </p> 
 
